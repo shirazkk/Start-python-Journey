@@ -1,5 +1,5 @@
 
-# if we can't give space its give error because becuase it expected indented block
+# if we can't give space its give error  becuase it expected indented block
 # if 5 > 2:
 # print("Five is greater than two!")
 
